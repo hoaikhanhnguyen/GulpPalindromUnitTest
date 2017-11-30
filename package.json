@@ -1,0 +1,23 @@
+{
+  "name": "gulp-training",
+  "version": "1.0.0",
+  "description": "This is a tutorial on how to write unit test with gulp and mocha js",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp",
+    "mocha"
+  ],
+  "author": "Khanh Nguyen",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "expect": "^21.2.1",
+    "gulp": "^3.9.1",
+    "gulp-eslint": "^4.0.0",
+    "run-sequence": "^2.2.0",
+    "sinon": "^4.1.2"
+  }
+}
